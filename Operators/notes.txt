@@ -1,0 +1,46 @@
+Operator is a symbol- to do some specific task
+
+8_categories of operators-
+Arthematic, Assignment, String , Conditional, logical, Bitwise, Comparision, typeof
+
+Arthematic
+----------
+- perform mathematical operations 
++, -, *,/, %(Modulus), ++ increment, -- decrement
+
+Assignment 
+----------
+- used to assign values diff js values
+
+=, +=, -=, *=, /=, %=, ^=, |=, **=
+
+String :
+-------
++ concatenation
++= same as assignment operator
+
+Assosciativity - refers the direction
+-------------
+
+
+
+Conditional operators - condition - ternary operator
+----------------------
+either true or false
+
+
+Logical Operator
+--------------
+&& (and) , || (or) , ! (not)
+
+//comparission operators-- 
+compare two variables 
+==, ===, !=, !==, >, <, >=, <= 
+
+//typeof
+shows type of every variable 
+
+//Bitwise operator - binary format 0's 1's
+binary to decimal for js
+no real work
+& , | , ~, ^

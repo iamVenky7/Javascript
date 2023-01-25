@@ -1,0 +1,34 @@
+Math objs Methods 
+--------------------
+abs(x)   -- return the absolute value of x
+acos(x)   --returns the arccosine of x, in radians 
+acosh(x)  -- returns the hyperbolic arccosine of x 
+asin(x)   -- returns the arcsine of x, in raadians
+asinh(x)  -- returns the hyperbolic arcsine of x 
+atan(x)   -- returns the arctangent of x as a numeric value between -PI/2 and PI/2 radians 
+atan2(y,x)  -- returns the arctangent of the quotient of its arguments 
+atanh(x)   -- returns the hyperbolic arctangent of x 
+cbrt(x)  -- returns the cubic root of x 
+ceil(x)  -- returns x , rounded upward to the nearest integer 
+cos(x)  -- returns the cosine of x (x is in radians)
+cosh(x) -- returns the hyperbolic cosine of x 
+exp(x) -- returns the value of E
+floor(x) --returns x , rounded downwards to the nearest integer 
+log(x) -- returns the natural logarithm (baseE) of x 
+max(x,y,z, ..., n) -- returns the number with tht highest value
+min(x,y,z, ..., n) -- returns the number with the lowest value
+pow(x,y)  -- returns the value of x to the power of y
+random()  -- returns a random number between 0 and 1 
+round(x)  -- Rounds x to the nearest integer 
+sign(x)  -- returns if x is negative, null or positive (-1,0,1)
+sin(x)  -- returns the sine of x (x is in radians)
+sinh(x)  -- returns the hyperbolic sine of x 
+sqrt(x)  -- returns the square root of x 
+tan(x) -- returns the tangent of an angle 
+tanh(x)  -- returns the hyperbolic tangent of a number 
+trunc()  -- returns the integer part of a number (x) 
+
+
+
+
+Dateobj methods in word

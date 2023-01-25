@@ -1,0 +1,9 @@
+control statements are the instructions that tells the browser to do specific tasks 
+
+2 types - Conditional, Iterative
+condition-- if-else or switch  - based on 2 diff conditions
+Iterative(looping) - action more than once ...
+for, while, do while, for...in(with objs)
+
+break; - exit a switch or loop 
+continue; - 

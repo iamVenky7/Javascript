@@ -1,0 +1,4 @@
+An array is collection of elememnts stored in contagious memory location 
+list of similar type of elemets 
+doesntmatter of datatype inside an array
+Arrays are dynamic nature in jS means 

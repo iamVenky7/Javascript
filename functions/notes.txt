@@ -1,0 +1,5 @@
+Its a block of code used to perform specific task
+we can reuse of that code again and again in entire program
+
+
+function  -- declerartion ,definition , calling

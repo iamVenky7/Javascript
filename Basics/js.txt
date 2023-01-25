@@ -1,0 +1,41 @@
+Features:
+------------
+Scripting lang
+light weight
+Client side and server side technology
+User validation
+platform independent
+OOP Scripting
+case sensitive
+
+Applications:
+--------------
+Web development -- wedsite development
+web Applications
+mobile Applications
+smart watches
+client-side validation 
+game development - 2d and 3d 
+
+pre-req: HTML,CSS, JS ENABLED OS, 
+
+Reasons to use :
+----------------
+Powerful frameworks 
+Constant growth 
+well paid 
+beginer friendly 
+largest community 
+wide range of usage 
+
+DOM -
+------
+DOM is an API for HTML/XML documents
+eg: restuarant
+-> it represents the entire document as node and document
+- js uses nodes , there are 
+- element  node- all tags , attribute node- atributes , text node- text
+
+why vs?
+--------
+ - intelisense, cross platform(linux, windows) 

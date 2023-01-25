@@ -1,0 +1,6 @@
+Dynamic typed scripting  lang , loosely packed variables 
+-> Primitive - stored in stack  -- base datatypes
+-> Non-Primitive - stored in heap - Arrays and objects 
+
+Premitives 
+-----------

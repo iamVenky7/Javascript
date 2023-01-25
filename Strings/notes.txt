@@ -1,0 +1,10 @@
+used to store and manupulate  textual values 
+sequence of letters
+
+String methods
+------------------- 
+length,(prop)   Search(),       split()
+toLowerCase(),  indexOf(),      substr()
+toUpperCase(),  lastindexOf(),  subString()
+startsWith(),   replace()
+endsWith(),     concat()

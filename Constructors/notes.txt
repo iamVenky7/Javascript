@@ -1,0 +1,3 @@
+diff b/w obj constructor method nd obj literal method is negliable 
+
+leteral is faster 

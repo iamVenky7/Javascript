@@ -1,0 +1,6 @@
+Scope: it refers to life of a variable in aprogram
+
+variables-- local and global 
+
+local  variable -- only acces  in prticular function , we cant access outside og function - until fun executing
+global - available in throughout the script
