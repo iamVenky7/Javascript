@@ -1,0 +1,4 @@
+Inheritence refers to the procedure through which one class or one constructor inherits the properties and methods of another constructor
+
+bike - derived constructor 
+vehice - base constructor

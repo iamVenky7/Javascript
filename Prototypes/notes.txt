@@ -1,0 +1,8 @@
+Prototype: it refers t a point from where it all started i.e. or from where we all inherited  properties
+
+//we cant make changes obj.prototype..
+we make changes in own prototypes i.e. constructor 
+
+obj literal mrthod - have single protype 
+
+constructor function:  have 2 - obj.prototype,  and constructors own prototype

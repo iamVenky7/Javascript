@@ -1,3 +1,8 @@
 diff b/w obj constructor method nd obj literal method is negliable 
 
 leteral is faster 
+
+
+typess
+1) Object literal
+2) constructor function 
